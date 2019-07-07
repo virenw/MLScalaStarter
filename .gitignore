@@ -1,2 +1,9 @@
 *.class
 *.log
+*.html
+target
+//Mac files
+.DS_Store
+//exclude IntelliJ files
+./idea*
+
