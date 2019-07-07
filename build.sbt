@@ -1,4 +1,4 @@
-name := "Projects"
+name := "MLScalaStarter"
 
 version := "0.1"
 

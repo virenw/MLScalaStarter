@@ -5,5 +5,5 @@ target
 //Mac files
 .DS_Store
 //exclude IntelliJ files
-./idea*
+.idea
 
